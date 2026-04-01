@@ -1,0 +1,30 @@
+# Compiled class files
+*.class
+
+# Compiled output directories
+bin/
+out/
+build/
+target/
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# IDE specific files/directories
+# VSCode
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.metadata
+.classpath
+.project
+.settings/
+
+# Log files
+*.log
